@@ -64,3 +64,27 @@ defining the magisterial districts:
   - Bloemfontein district and Botshabelo subdistrict
   - Johannesburg district and Booysens subdistrict
   - Lenasia and Westonaria subdistricts
+
+## High Court divisions
+
+The files named `high_court_divisions.*` represent the boundaries of the areas
+of jurisdiction of the main and local seats of the High Court of South Africa.
+These boundaries have been derived from the magisterial district boundaries,
+according to the areas described in
+[Government Notice 7648 of 2026](https://www.justice.gov.za/legislation/notices/2026/20260702-gg54935gon7648-SupCourts-Jurisdiction.pdf).
+
+The Eastern Cape presented two problems. Firstly the definition of the Bhisho
+seat was affected by a printing error in the Government Gazette, so I referred
+in addition to the
+[report of the Moseneke Committee](https://www.justice.gov.za/maps/2023-Report-Recommendations-Rationalisation_HighCourt.pdf)
+on which these definitions were based.
+
+Secondly, the notice split certain magisterial districts between two seats of
+the Eastern Cape division, without precisely defining how the district was to
+be split. I have tried to follow current and historic boundaries to present a
+reasonable result. These cases are:
+
+- Sundays River Valley subdistrict, split between Makhanda and Gqeberha.
+- Raymond Mhlaba subdistrict, split between Makhanda and Bhisho.
+- Sterkspruit district and Emalahleni and Intsika Yethu subdistricts, split
+  between Bhisho and Mthatha.
